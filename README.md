@@ -1,115 +1,70 @@
 <div align="center">
-  <h1 align="center">👋 Hi, I'm Leo Mael Chacca</h1>
-  <h3>Software Engineer | Backend Specialist | Software Architect</h3>
-  <p>
-    <em>"Building scalable systems with clean code and robust architecture."</em>
-  </p>
+  <h1 style="font-size: 2.5em; font-weight: bold; margin-bottom: 10px;">Leo Mael Chacca Charca</h1>
+  <p style="font-size: 1.2em;">Software Engineer | Backend Specialist | Software Architect</p>
   
+  <br>
+
   <a href="https://www.linkedin.com/in/Leo-Mael">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
   </a>
+  &nbsp;
   <a href="https://github.com/LeoMael">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28">
   </a>
+  &nbsp;
   <a href="mailto:leochacca90@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28">
   </a>
 </div>
 
----
+<br><br>
 
-### 👨‍💻 Bio: The Class Definition
-En lugar de texto plano, aquí está mi definición como objeto en el sistema:
+## About Me
 
-```mermaid
-classDiagram
-    class Developer {
-        +String Name: "Leo Mael"
-        +String Location: "Puno, Perú"
-        +String Focus: "Backend & Architecture"
-        +Certification: "Oracle Cloud Infrastructure 2025"
-        +solveComplexProblems()
-        +implementCleanArchitecture()
-    }
-    class Education {
-        +Institution: "UNAP"
-        +Major: "Systems Engineering"
-        +Ranking: "Top 10 (Décimo Superior)"
-    }
-    class Achievements {
-        +IEEEXtreme_18: "Top 16 National / 1st Uni"
-        +NASA_SpaceApps: "Top 10 Moquegua"
-    }
-    
-    Developer --|> Education : Studies at
-    Developer --|> Achievements : Awards
-```
+> Systems Engineering student specializing in **Backend Development** and **Software Architecture**. Certified **Oracle Cloud Infrastructure 2025** Associate. I build scalable RESTful APIs and integrate AI solutions using LangChain and RAG. My focus is on clean code, SOLID principles, and high-performance systems.
 
-### 🏗️ Project Architecture Showcase
-Uno de mis proyectos recientes integra Inteligencia Artificial (RAG) con sistemas académicos. Esta es la arquitectura de alto nivel que diseñé e implementé:
+*   **Top Achievement:** IEEEXtreme 18 (Rank 16th National / 1st University).
+*   **Focus:** Software Architecture, Backend Systems, Cloud Infrastructure, AI Integration.
 
-```mermaid
-graph TD
-    subgraph "Client Layer"
-        User[👤 Estudiante/Docente] -->|HTTPS/JWT| Client[💻 React Frontend<br>Intranet & Aula Virtual]
-    end
+<br>
 
-    subgraph "Backend Layer (Microservices/API)"
-        Client -->|REST API| Controller[⚙️ Node.js / Java Controller]
-        Controller --> Service[🧠 Business Logic Service]
-        
-        subgraph "AI Module"
-            Service -->|Query| LangChain[🦜 LangChain Orchestrator]
-            LangChain -->|Retrieve Context| VectorDB[(🗄️ Qdrant Vector DB)]
-            LangChain -->|Generate Answer| LLM[🤖 OpenAI/LLM Model]
-        end
-    end
+## Experience
 
-    subgraph "Persistence Layer"
-        Service -->|CRUD| SQL[(🗃️ MySQL Database)]
-    end
+### **Desarrollador Full Stack** | *Proyecto Personal (Aula Virtual + IA)*
+*   Architected and developed a comprehensive web system integrating an Intranet and Virtual Classroom using **Node.js** and **React**.
+*   Engineered an **AI Chatbot** using **LangChain** and **Qdrant** (RAG) to answer student queries based on PDF documents.
+*   Designed scalable RESTful APIs secured with JWT.
 
-    style User fill:#f9f,stroke:#333,stroke-width:2px
-    style Client fill:#bbf,stroke:#333,stroke-width:2px
-    style Controller fill:#dfd,stroke:#333,stroke-width:2px
-    style LangChain fill:#fdb,stroke:#333,stroke-width:2px
-```
+### **Desarrollador Web** | *AlquilaYA!*
+*   Led the development of a centralized rental platform for university students.
+*   Implemented a monolithic architecture using **PHP**, focusing on SEO and accessible UX.
+*   Managed deployment and database optimization.
 
-### 🛠️ Tech Stack & Tools
-Organizado por capas de la arquitectura de software:
+### **Desarrollador Backend Java** | *Alura Latam (Foro Hub)*
+*   Built a robust REST API for a forum application using **Java Spring Boot**.
+*   Implemented **Spring Security** and JWT for stateless authentication.
+*   Applied **Clean Architecture** principles and documented endpoints via Swagger UI.
 
-- **Presentation:** React
-- **Application/Domain:** Java, Node.js
-- **Infrastructure & DevOps:** Oracle Cloud Infrastructure
-- **Data & AI:** MySQL, Qdrant, LangChain, OpenAI
+<br>
 
-###  Design Patterns I Use
-Como Backend Developer enfocado en calidad, aplico estos principios en mi código:
+## Skills & Tools
 
-```mermaid
-mindmap
-  root((Software<br>Architecture))
-    Clean Architecture
-      Entities
-      Use Cases
-      Controllers
-    SOLID Principles
-      Single Responsibility
-      Open/Closed
-      Dependency Inversion
-    Patterns
-      Singleton
-      Repository
-      DTOs
-      Factory
-```
+| **Backend & Languages**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Data, Cloud & AI**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white) <br> ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Qdrant](https://img.shields.io/badge/-Qdrant-D50000?style=flat&logo=target&logoColor=white) <br> ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) |
+| **Concepts:** Clean Arch, SOLID, Scrum                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | ![Oracle](https://img.shields.io/badge/-Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)                                                                                                                                                                                                                     |
 
-### 🚀 Latest Achievements
-*   🏆 **IEEE Xtreme 18:** Ranked 16th in Peru (1st at University level).
-*   🌍 **NASA Space Apps Challenge:** Top 10 Finalist (Moquegua).
-*   🎓 **Scholarship:** ONE Tech Foundation G8 - Back End (Alura Latam).
+<br>
+
+## Education & Certifications
+
+*   **Systems Engineering** | Universidad Nacional del Altiplano (Top 10 Ranking) | *2022 - Present*
+*   **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** | *2025 - 2027*
+*   **ONE Tech Foundation G8 - Back End** | Alura Latam | *2025*
+
+<br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LeoMael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMael&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoMael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMael&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Languages" />
 </div>
