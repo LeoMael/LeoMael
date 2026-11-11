@@ -1,9 +1,11 @@
+<h1 align="center">Leo Mael Chacca Charca</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4f46e5&height=150&section=header&text=Leo%20Mael%20Chacca%20Charca&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Architecture%2C%20System%20Design%20%26%20Cloud&descSize=16&descAlignY=60" width="100%" alt="Leo Mael Chacca Charca" />
+  <b>Software Engineer</b> | Architecture, System Design, Cloud & AI Engineering
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=38BDF8&center=true&vCenter=true&width=620&lines=Designing+scalable+backends+and+clean+architectures;Deploying+on+AWS%2C+Oracle+Cloud+and+Linux+servers;Integrating+AI+with+LangChain+and+RAG;Building+desktop+apps+in+Rust+%2B+Tauri" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=38BDF8&center=true&vCenter=true&width=620&lines=Designing+scalable+backends+and+clean+architectures;Deploying+on+AWS%2C+Oracle+Cloud+and+Linux+servers;Engineering+AI+systems+with+LLMs%2C+RAG+and+agents;Building+desktop+apps+in+Rust+%2B+Tauri" alt="What I do" />
 </p>
 
 <p align="center">
@@ -12,12 +14,10 @@
   <a href="https://github.com/Leo-Mael"><img src="https://img.shields.io/badge/Also%20on%20GitHub-@Leo--Mael-181717?style=for-the-badge&logo=github&logoColor=white" alt="Second GitHub account" /></a>
 </p>
 
-## 👨‍💻 About me
-
 I'm a Systems Engineering student at Universidad Nacional del Altiplano (top 10 of my class) who enjoys
 **designing systems end to end**: the architecture, the APIs, the data model and the servers they run on.
 My core is the **backend**, but I'm comfortable across the stack, in the cloud and on Linux servers.
-Lately I've been integrating **AI** into real products and building a **desktop app in Rust**.
+Lately I've been working on **AI engineering**, bringing LLMs, RAG and agents into real products, and building a **desktop app in Rust**.
 
 <table>
   <tr>
@@ -36,13 +36,13 @@ Lately I've been integrating **AI** into real products and building a **desktop 
       Java/Spring, C#/.NET, Node.js, Laravel, Rust. PostgreSQL, MySQL and vector databases, with indexing and query optimization.
     </td>
     <td width="50%" valign="top">
-      <b>🤖 AI integration</b><br/>
-      LangChain, RAG pipelines, Qdrant, OpenAI, and on-device ML with MediaPipe and TensorFlow Lite.
+      <b>🤖 AI engineering</b><br/>
+      LLM-powered applications: RAG pipelines, embeddings and vector search, prompt design, tool calling and agents, evaluation. LangChain, OpenAI, Qdrant, and on-device ML with MediaPipe and TensorFlow Lite.
     </td>
   </tr>
 </table>
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
   <tr>
@@ -117,10 +117,10 @@ Lately I've been integrating **AI** into real products and building a **desktop 
 ## 🛠️ Tech stack
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,ts,js,python,php,rust,cpp,c" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,cs,ts,python,rust,cpp,c" alt="Languages" />
 
 **Backend & frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,nestjs,laravel,react,angular,vite,androidstudio" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,nestjs,laravel,react,angular,androidstudio" alt="Frameworks" />
 
 **Data**<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" alt="Databases" />
@@ -131,13 +131,9 @@ Lately I've been integrating **AI** into real products and building a **desktop 
 <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
 <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
 
-## 🎓 Education & certifications
+## Education & certifications
 
 - 🎓 **B.S. Systems Engineering**, Universidad Nacional del Altiplano (2022 to present)
 - ☁️ **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** (valid until 2027)
 - 🚀 **ONE Tech Foundation G8, Back End**, Oracle Next Education + Alura Latam (2025)
 - 🏆 **IEEEXtreme 18**: 16th nationally and 1st in my university
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=90&section=footer" width="100%" alt="" />
-</p>
