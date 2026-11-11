@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=38BDF8&center=true&vCenter=true&width=620&lines=Designing+scalable+backends+and+clean+architectures;Deploying+on+AWS%2C+Oracle+Cloud+and+Linux+servers;Engineering+AI+systems+with+LLMs%2C+RAG+and+agents;Building+desktop+apps+in+Rust+%2B+Tauri" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=38BDF8&center=true&vCenter=true&width=620&lines=Designing+scalable+backends+and+clean+architectures;Deploying+on+AWS%2C+Oracle+Cloud+and+Linux+servers;Engineering+AI+systems+with+LLMs%2C+RAG+and+agents;Training+neural+networks+for+computer+vision;Building+desktop+apps+in+Rust+%2B+Tauri" alt="What I do" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 I'm a Systems Engineering student at Universidad Nacional del Altiplano (top 10 of my class) who enjoys
 **designing systems end to end**: the architecture, the APIs, the data model and the servers they run on.
 My core is the **backend**, but I'm comfortable across the stack, in the cloud and on Linux servers.
-Lately I've been working on **AI engineering**, bringing LLMs, RAG and agents into real products, and building a **desktop app in Rust**.
+I also work on **AI**: training neural networks for **computer vision** and engineering **LLM-based systems** (RAG, agents) for real products. Lately I've been building a **desktop app in Rust**.
 
 <table>
   <tr>
@@ -37,7 +37,13 @@ Lately I've been working on **AI engineering**, bringing LLMs, RAG and agents in
     </td>
     <td width="50%" valign="top">
       <b>🤖 AI engineering</b><br/>
-      LLM-powered applications: RAG pipelines, embeddings and vector search, prompt design, tool calling and agents, evaluation. LangChain, OpenAI, Qdrant, and on-device ML with MediaPipe and TensorFlow Lite.
+      LLM-powered applications: RAG pipelines, embeddings and vector search, prompt design, tool calling and agents, evaluation. LangChain, OpenAI, Qdrant.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <b>🧠 Machine learning & computer vision</b><br/>
+      Designing and training neural networks (CNNs, transfer learning) for image and video tasks such as classification, detection and gesture recognition. Data preparation and augmentation, training and evaluation in TensorFlow/Keras and PyTorch, image processing with OpenCV, and optimized on-device deployment with TensorFlow Lite and MediaPipe.
     </td>
   </tr>
 </table>
@@ -72,7 +78,7 @@ Lately I've been working on **AI engineering**, bringing LLMs, RAG and agents in
     </td>
     <td width="50%" valign="top">
       <h4>🤟 <a href="https://github.com/LeoMael/ASL-translator-android">ASL Translator</a></h4>
-      Real-time American Sign Language translation on Android with MediaPipe and LiteRT, fully offline. Also available as a <a href="https://github.com/LeoMael/ASL-translator-Free">Python app</a>.<br/><br/>
+      Real-time American Sign Language translation: hand landmarks with MediaPipe and a trained neural network classifier, running fully offline on Android with LiteRT. Also available as a <a href="https://github.com/LeoMael/ASL-translator-Free">Python app</a> (TensorFlow/Keras).<br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
@@ -124,6 +130,15 @@ Lately I've been working on **AI engineering**, bringing LLMs, RAG and agents in
 
 **Data**<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" alt="Databases" />
+
+**AI & machine learning**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda" alt="AI and ML" />
+<br/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 
 **Cloud, servers & DevOps**<br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,ubuntu,nginx,bash,githubactions,git,postman" alt="Cloud and DevOps" />
